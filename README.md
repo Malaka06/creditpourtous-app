@@ -1,2 +1,2 @@
 # creditpourtous-app
-pplication IA pour prédire les défauts de paiement 
+Application IA pour prédire les défauts de paiement 
